@@ -1,0 +1,28 @@
+.project {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 15px 0;
+    text-align: center;
+    background-color: #f2e9e4;
+    border-radius: 8px;
+}
+
+.project h3 {
+    margin-top: 0;
+    color: #22223b;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #4a4e69;
+    font-weight: bold;
+}
