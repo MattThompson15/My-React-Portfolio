@@ -1,0 +1,22 @@
+footer {
+    background-color: #22223b;
+    color: #f2e9e4;
+    text-align: center;
+    padding: 15px 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #9a8c98;
+}
